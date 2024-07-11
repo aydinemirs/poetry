@@ -1,10 +1,10 @@
-* ScrapeMynet
+ScrapeMynet
 - ScrapeMynet, Mynet finans sayfasından borsa verilerini çekmek için kullanılan bir Python uygulamasıdır.
 
-* Kurulum ve Başlatma
+Kurulum ve Başlatma
 - Bu rehber, projeyi nasıl kuracağınızı ve çalıştıracağınızı adım adım anlatmaktadır.
 
-* Gereksinimler
+Gereksinimler
 - Python 3.8 veya üstü
 - Poetry
 
