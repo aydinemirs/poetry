@@ -7,7 +7,7 @@ MySQL Komut İstemcisi ile Veritabanı İşlemleri
 3. Şifreyi Girin
   
 4. Veritabanını Seçin
-  USE hissescrapin(database name);
+  USE hissescraping(database name);
 
 5. Tabloyu Sorgulayın
   SELECT * FROM hisseler;
